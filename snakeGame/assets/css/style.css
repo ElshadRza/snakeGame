@@ -1,0 +1,20 @@
+.ground {
+  background-image: url(../img/891ee9a180d14aa4cb2f71100d7b3a987215d384.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 500px;
+  height: 500px;
+  position: absolute;
+}
+.ground .snake {
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
